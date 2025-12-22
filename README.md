@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Dang!;I'm+studying+AI.)](https://git.io/typing-svg)
 
-<img src="https://prorile-counter.glitch.me/Danglee1107/count.svg">
-
- [![GitHub followers](https://img.shields.io/github/followers/Danglee1107.svg?style=social&label=Followers)](https://github.com/Danglee1107?tab=followers)
-
  ### ● Main
 <div align="left">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
