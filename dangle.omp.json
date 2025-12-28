@@ -13,12 +13,12 @@
           "properties": {
             "enable_hyperlinks": true,
             "folder_icon": "\uf115 ",
-            "folder_separator_icon": "<transparent> \ue0b1 </>",
+            "folder_separator_icon": "<transparent></>",
             "max_depth": 2,
-            "style": "agnoster_short"
+            "style": "folder"
           },
           "style": "diamond",
-          "template": "<#000>\uf07b</> {{ .Path }} ",
+          "template": "<#000>\uf07b </> {{ .Path }} ",
           "trailing_diamond": "\ue0b0",
           "type": "path"
         },
